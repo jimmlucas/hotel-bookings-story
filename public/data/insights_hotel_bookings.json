@@ -1,0 +1,63 @@
+{
+  "resumen_general": {
+    "total_reservas": 117391,
+    "tasa_cancelacion": 37.485837926246475,
+    "adr_promedio": 103.49950762835309,
+    "lead_time_promedio": 105.10025470436405,
+    "estancia_promedio": 3.4564404426233697
+  },
+  "por_hotel": {
+    "City Hotel": {
+      "reservas": 78085,
+      "adr_promedio": 106.88674034705771,
+      "tasa_cancelacion": 42.2206569763719
+    },
+    "Resort Hotel": {
+      "reservas": 39306,
+      "adr_promedio": 96.7704569276955,
+      "tasa_cancelacion": 28.079682491222712
+    }
+  },
+  "top_paises": {
+    "PRT": 47020,
+    "GBR": 12051,
+    "FRA": 10359,
+    "ESP": 8488,
+    "DEU": 7246,
+    "ITA": 3749,
+    "IRL": 3369,
+    "BEL": 2334,
+    "BRA": 2210,
+    "NLD": 2099
+  },
+  "tipos_viaje": {
+    "work+rest": 54903,
+    "work": 50489,
+    "weekend": 6805,
+    "rest": 4796,
+    "package": 398
+  },
+  "estacionalidad": {
+    "April": 10952,
+    "August": 13703,
+    "December": 6558,
+    "February": 7919,
+    "January": 5799,
+    "July": 12487,
+    "June": 10817,
+    "March": 9636,
+    "May": 11608,
+    "November": 6635,
+    "October": 10928,
+    "September": 10349
+  },
+  "segmentos_mercado": {
+    "Online TA": 56087,
+    "Offline TA/TO": 23883,
+    "Groups": 19557,
+    "Direct": 12360,
+    "Corporate": 5210,
+    "Aviation": 231,
+    "Complementary": 63
+  }
+}
